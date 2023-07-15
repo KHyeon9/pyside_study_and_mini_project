@@ -1,0 +1,1 @@
+# pyside_study_and_mini_project
